@@ -1,0 +1,67 @@
+:root {
+	background-color: #000 !important;
+}
+
+body {
+	background-color: #000
+}
+
+#console {
+	font-family: courier, monospace;
+	color: #fff;
+	width:1200px;
+	margin-left:50px;
+	margin-right:100px;
+	margin-top:60px;
+	font-size:18px;
+}
+
+button{
+	background-color: black;
+	color: white;
+	border: 2px solid white; /* Green */
+  }  
+
+a {
+	color: #0bc;
+	text-decoration: none;
+}
+
+#a {
+	color: #0f0;
+}
+
+#c {
+	color: #0bc;
+}
+
+#b {
+	color: #ff0096;
+}
+
+#k {
+    	animation: change 1s;
+}
+
+#op{
+    	color: #888888
+}
+
+@keyframes change {
+    	0%  { color:  #0f0; }
+    	50% { color:  #0f0; }
+    	99% { color: black; }
+}
+
+
+#myProgress {
+	width: 30%;
+	height: 30px;
+	background-color: grey;
+  }
+  
+  #myBar {
+	width: 20%;
+	height: 30px;
+	background-color: green;
+  }

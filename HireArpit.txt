@@ -1,0 +1,110 @@
+<span id="a">hire@arpit</span>:<span id="b">~</span><span id="c">$</span> ls<!-- kjsdfhkjdhsfkjdshfkj -->
+<a href="http://localhost:5500/CodeNerve.github.io/#q">~Projects</a> <a href="http://localhost:5500/CodeNerve.github.io/#w">~Coding_Profiles</a> <a href="http://localhost:5500/CodeNerve.github.io/#e">~skills</a>  <a href="https://www.linkedin.com/in/arpit-kapoor---/">~LinkedIn</a> <a href="https://github.com/kapoorarpit">~Github</a> <a href="http://localhost:5500/CodeNerve.github.io/#r">~Contact</a> <a href="#">~resume</a>
+
+
+<span id="a">hire@arpit</span>:<span id="b">~</span><span id="c">$</span> About<!-- kjsdfhkjdhsfkjdshfkj -->
+Hi! I am Arpit Kapoor<p>I am currently pursuing B.tech(2018-2022). Proud to say that I thoroughly understand Programming fundamentals, hold some good coding profiles and has some cool projects. This site will help you to find me easily and to showcase some of my skills</p>
+
+<span id="a">hire@arpit</span>:<span id="b">~</span><span id="c">$</span> Education<!-- kjsdfhkjdhsfkjdshfkj -->
+<p>B.tech(IT)
+SRMSCET, Bareilly || 8.2 SGPA
+
+Intermediate 
+CBSE || 74%
+
+High-School
+CBSE || 10CGPA
+</p>
+
+<span id="q"><span id="a">hire@arpit</span>:<span id="b">~</span><span id="c">$</span> Projects</span>
+
+<div class="box">
+<div  style="border: 3px solid;border-style: double; padding-left:20px;padding-bottom:20px ">
+<span id="a">Password assisting tool</span>
+<p> This tool is really great at 
+managing and securing your Passwords.
+It has some powerfull features like-
+* Saving your passwords in a random extension file.
+* Saving encrypted passwords in fragmented form to different cloud platforms.
+* Many more features like password recommendation, suggestion, checking strength of passwords.
+* Used - Electronjs, cryptography, JavaScript and other cloud APIs.
+</p>
+<span style='align:center;'> <button style='margin-right:16px'>CodeBase</button><button style='margin-right:16px'>Documentation</button></span>
+</div>
+
+<div class="box">
+<div  style="border: 3px solid;border-style: double;padding-left:20px;padding-bottom:20px ">
+<span id="a">Msorrywhat??</span>
+<p> Here is a solution avoid boring 
+online meetings -
+* This tool will notify you whenever your name will be taken in the online meetings.
+* With the help of text messages on your contact number
+* Used - JavaScript and speech recognition tools.
+</p>
+<span > <button style='margin-right:16px'>CodeBase</button><button style='margin-right:16px'>Documentation</button></span>
+</div>
+
+<div class="box">
+<div  style="border: 3px white;border-style: double; padding-left:20px;padding-bottom:20px ">
+<span id="a">Fast-URL shortener</span>
+<p> This is a URL shortener-
+* Designed in Go Programming language and MongoDB.
+* This tool is really cost effective as it don't uses any hashing algorithms.
+* I have also designed HLD and LLD for this project.
+</p>
+<span > <button style='margin-right:16px'>CodeBase</button><button style='margin-right:16px'>Documentation</button><button style='margin-right:16px'>HLD</button><button style='margin-right:16px'>LLD</button></span>
+</div>
+
+
+<span id="w"><span id="a">hire@arpit</span>:<span id="b">~</span><span id="c">$</span> Coding Profiles</span>
+<p> Problem solving <span id="a">@HackerRank</span>    <span id="b">5*</span>  
+    Problem Solving <span id="a">@GeeksforGeeks</span> <span id="b">220+</span>  
+    Competitive Coding <span id="a">@CodeChef</span>   <span id="b">3*</span>  
+    Python Programming <span id="a">@HackerRank</span> <span id="b">5*</span>  
+    C++ Programming <span id="a">@HackerRank</span>    <span id="b">5*</span>  
+    SQL <span id="a">@HackerRank</span>                <span id="b">5*</span>  
+
+    <a href="https://www.hackerrank.com/arpitkapoor">~HackerRank     </a>    <a href="https://auth.geeksforgeeks.org/user/kapoorarpit2000/practice/">~GeeksforGeeks      </a>     <a href="https://www.codechef.com/users/arpit_kapoor">~CodeChef</a>
+</p>
+
+
+<span id="e"><span id="a">hire@arpit</span>:<span id="b">~</span><span id="c">$</span> You can find my skills below</span>
+
+<span id="b">Data Structures and Algorithms / Problem Solving</span>
+<div style='background-color:white; height:10px; width:800px;'> <div style='background-color:green; height:10px;width:700px;'></div></div>
+
+<span id="b">C++</span>
+<div style='background-color:white; height:10px; width:800px;'> <div style='background-color:green; height:10px;width:650px;'></div></div>
+
+<span id="b">Web development</span>
+<div style='background-color:white; height:10px; width:800px;'> <div style='background-color:green; height:10px;width:650px;'></div></div>
+
+<span id="b">MySQL / MongoDB</span>
+<div style='background-color:white; height:10px; width:800px;'> <div style='background-color:green; height:10px;width:600px;'></div></div>
+
+<span id="b">Noje.js / JavaScript </span>
+<div style='background-color:white; height:10px; width:800px;'> <div style='background-color:green; height:10px;width:550px;'></div></div>
+
+<span id="b">Flask / Python</span>
+<div style='background-color:white; height:10px; width:800px;'> <div style='background-color:green; height:10px;width:550px;'></div></div>
+
+<span id="b">Golang</span>
+<div style='background-color:white; height:10px; width:800px;'> <div style='background-color:green; height:10px;width:400px;'></div></div>
+
+<span id="b">Competitive Coding</span>
+<div style='background-color:white; height:10px; width:800px;'> <div style='background-color:green; height:10px;width:500px;'></div></div>
+
+<span id="b">Front-end</span>
+<div style='background-color:white; height:10px; width:800px;'> <div style='background-color:green; height:10px;width:250px;'></div></div>
+
+<span id="r">
+<p>  
+    <span id="a">Contact Number</span> <span id="b">+91 8445-007-708</span>  
+    <span id="a">Email-Id</span>   <span id="b">kapoorarpit2000@gmail.com</span>  
+</p>
+</span>
+
+
+Thanks for visiting "<span id="k">HireArpit.com</span>". <!-- sjkfhskjf -->
+
+<a href="http://localhost:5500/CodeNerve.github.io/#">Back to top</a>
