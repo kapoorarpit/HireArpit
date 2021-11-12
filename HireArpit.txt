@@ -1,5 +1,5 @@
 <span id="a">hire@arpit</span>:<span id="b">~</span><span id="c">$</span> ls<!-- kjsdfhkjdhsfkjdshfkj -->
-<a href="http://localhost:5500/CodeNerve.github.io/#q">~Projects</a> <a href="http://localhost:5500/CodeNerve.github.io/#w">~Coding_Profiles</a> <a href="http://localhost:5500/CodeNerve.github.io/#e">~skills</a>  <a href="https://www.linkedin.com/in/arpit-kapoor---/">~LinkedIn</a> <a href="https://github.com/kapoorarpit">~Github</a> <a href="http://localhost:5500/CodeNerve.github.io/#r">~Contact</a> <a href="#">~resume</a>
+<a href="https://kapoorarpit.github.io/HireArpit/#q">~Projects</a> <a href="https://kapoorarpit.github.io/HireArpit/#w">~Coding_Profiles</a> <a href="https://kapoorarpit.github.io/HireArpit/#e">~skills</a>  <a href="https://www.linkedin.com/in/arpit-kapoor---/">~LinkedIn</a> <a href="https://github.com/kapoorarpit">~Github</a> <a href=https://kapoorarpit.github.io/HireArpit/#r">~Contact</a> <a href="#">~resume</a>
 
 
 <span id="a">hire@arpit</span>:<span id="b">~</span><span id="c">$</span> About<!-- kjsdfhkjdhsfkjdshfkj -->
@@ -107,4 +107,4 @@ online meetings -
 
 Thanks for visiting "<span id="k">HireArpit.com</span>". <!-- sjkfhskjf -->
 
-<a href="http://localhost:5500/CodeNerve.github.io/#">Back to top</a>
+<a href="https://kapoorarpit.github.io/HireArpit/#">Back to top</a>
