@@ -96,15 +96,9 @@ online meetings -
 
 <span id="b">Front-end</span>
 <div style='background-color:white; height:10px; width:800px;'> <div style='background-color:green; height:10px;width:250px;'></div></div>
-
-<span id="r">
-<p>  
+<span id="r"><p>  
     <span id="a">Contact Number</span> <span id="b">+91 8445-007-708</span>  
     <span id="a">Email-Id</span>   <span id="b">kapoorarpit2000@gmail.com</span>  
-</p>
-</span>
-
-
+</p></span>
 Thanks for visiting "<span id="k">HireArpit.com</span>". <!-- sjkfhskjf -->
-
 <a href="https://kapoorarpit.github.io/HireArpit/#">Back to top</a>
