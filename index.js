@@ -95,7 +95,7 @@ function replaceUrls(text) {
   }
 }
 
-Typer.speed = 10;
+Typer.speed = 100;
 Typer.file = 'HireArpit.txt';
 Typer.init();
 
