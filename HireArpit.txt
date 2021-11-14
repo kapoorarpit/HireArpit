@@ -20,7 +20,7 @@ CBSE || 10CGPA
 
 <div class="box">
 <div  style="border: 3px solid;border-style: double; padding-left:20px;padding-bottom:20px ">
-<span id="a">Password assisting tool</span>
+<span id="a">Passwords Managing tool</span>
 <p> This tool is really great at 
 managing and securing your Passwords.
 It has some powerfull features like-
@@ -29,11 +29,11 @@ It has some powerfull features like-
 * Many more features like password recommendation, suggestion, checking strength of passwords.
 * Used - Electronjs, cryptography, JavaScript and other cloud APIs.
 </p>
-<span style='align:center;'> <button style='margin-right:16px'>CodeBase</button><button style='margin-right:16px'>Documentation</button></span>
+<span style='align:center;'> <button style='margin-right:16px'><a href="https://github.com/kapoorarpit/Password-Manager">CodeBase</a></button><button style='margin-right:16px'><a href="https://github.com/kapoorarpit/Password-Manager/blob/main/readme.md">Documentation</a></button></span>
 </div>
 
 <div class="box">
-<div  style="border: 3px solid;border-style: double;padding-left:20px;padding-bottom:20px ">
+<div  style="border: 3px solid;border-style: double;padding-left:20px;padding-bottom:20px">
 <span id="a">Msorrywhat??</span>
 <p> Here is a solution avoid boring 
 online meetings -
@@ -41,7 +41,7 @@ online meetings -
 * With the help of text messages on your contact number
 * Used - JavaScript and speech recognition tools.
 </p>
-<span > <button style='margin-right:16px'>CodeBase</button><button style='margin-right:16px'>Documentation</button></span>
+<span > <button style='margin-right:16px'><a href="https://github.com/kapoorarpit/msorrywhat-">CodeBase</a></button><button style='margin-right:16px'><a href="https://github.com/kapoorarpit/MsorryWhat-/blob/master/Readme.md">Documentation</a></button></span>
 </div>
 
 <div class="box">
@@ -52,7 +52,7 @@ online meetings -
 * This tool is really cost effective as it don't uses any hashing algorithms.
 * I have also designed HLD and LLD for this project.
 </p>
-<span > <button style='margin-right:16px'>CodeBase</button><button style='margin-right:16px'>Documentation</button><button style='margin-right:16px'>HLD</button><button style='margin-right:16px'>LLD</button></span>
+<span > <button style='margin-right:16px'><a href="https://github.com/kapoorarpit/Fast-URLshortener">CodeBase</a></button><button style='margin-right:16px'><a href="https://github.com/kapoorarpit/Fast-URLshortener/blob/master/README.md">Documentation</a></button><button style='margin-right:16px'><a href="https://github.com/kapoorarpit/Fast-URLshortener/blob/master/HLD.md">HLD</a></button><button style='margin-right:16px'><a href="https://github.com/kapoorarpit/Fast-URLshortener/blob/master/LLD.md">LLD</a></button></span>
 </div>
 
 
