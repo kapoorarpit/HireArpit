@@ -1,2 +1,2 @@
-# CodeNerve.github.io
-Terminal based portfolio website for CodeNerve
+# HireArpit.com
+you can visit this site here - https://kapoorarpit.github.io/HireArpit/
