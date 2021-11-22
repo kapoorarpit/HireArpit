@@ -1,5 +1,5 @@
 <span id="a">hire@arpit</span>:<span id="b">~</span><span id="c">$</span> ls<!-- kjsdfhkjdhsfkjdshfkj -->
-<a href="https://kapoorarpit.github.io/HireArpit/#q">~Projects</a> <a href="https://kapoorarpit.github.io/HireArpit/#w">~Coding_Profiles</a> <a href="https://kapoorarpit.github.io/HireArpit/#e">~skills</a>  <a href="https://www.linkedin.com/in/arpit-kapoor---/">~LinkedIn</a> <a href="https://github.com/kapoorarpit">~Github</a> <a href="https://kapoorarpit.github.io/HireArpit/#r">~Contact</a> <a href="#">~resume</a>
+<a href="https://kapoorarpit.github.io/HireArpit/#q">~Projects</a> <a href="https://kapoorarpit.github.io/HireArpit/#w">~Coding_Profiles</a> <a href="https://kapoorarpit.github.io/HireArpit/#e">~skills</a>  <a href="https://www.linkedin.com/in/arpit-kapoor---/">~LinkedIn</a> <a href="https://github.com/kapoorarpit">~Github</a> <a href="https://kapoorarpit.github.io/HireArpit/#r">~Contact</a> <a href="https://github.com/kapoorarpit/HireArpit/raw/master/Arpit%20Kapoor(Resume).pdf">~resume</a>
 
 
 <span id="a">hire@arpit</span>:<span id="b">~</span><span id="c">$</span> About<!-- kjsdfhkjdhsfkjdshfkj -->
@@ -7,13 +7,13 @@ Hi! I am Arpit Kapoor<p>I am currently pursuing B.tech(2018-2022). Proud to say 
 
 <span id="a">hire@arpit</span>:<span id="b">~</span><span id="c">$</span> Education<!-- kjsdfhkjdhsfkjdshfkj -->
 <p>B.tech(IT)
-SRMSCET, Bareilly || 8.2 SGPA
+SRMSCET, Bareilly || Dr. APJ Abdul Kalam Technical University || 8.2 SGPA
 
 Intermediate 
-CBSE || 74%
+Mother Athena School || CBSE || 74%
 
 High-School
-CBSE || 10CGPA
+Florence Nightingale School || CBSE || 10CGPA
 </p>
 
 <span id="q"><span id="a">hire@arpit</span>:<span id="b">~</span><span id="c">$</span> Projects</span>
@@ -41,7 +41,7 @@ online meetings -
 * With the help of text messages on your contact number
 * Used - JavaScript and speech recognition tools.
 </p>
-<span > <button style='margin-right:16px'><a href="https://github.com/kapoorarpit/msorrywhat-">CodeBase</a></button><button style='margin-right:16px'><a href="https://github.com/kapoorarpit/MsorryWhat-/blob/master/Readme.md">Documentation</a></button></span>
+<span > <button style='margin-right:16px'><a href="https://kapoorarpit.github.io/MsorryWhat-/">Demo</a></button><button style='margin-right:16px'><a href="https://github.com/kapoorarpit/msorrywhat-">CodeBase</a></button><button style='margin-right:16px'><a href="https://github.com/kapoorarpit/MsorryWhat-/blob/master/Readme.md">Documentation</a></button></span>
 </div>
 
 <div class="box">
@@ -52,13 +52,13 @@ online meetings -
 * This tool is really cost effective as it don't uses any hashing algorithms.
 * I have also designed HLD and LLD for this project.
 </p>
-<span > <button style='margin-right:16px'><a href="https://github.com/kapoorarpit/Fast-URLshortener">CodeBase</a></button><button style='margin-right:16px'><a href="https://github.com/kapoorarpit/Fast-URLshortener/blob/master/README.md">Documentation</a></button><button style='margin-right:16px'><a href="https://github.com/kapoorarpit/Fast-URLshortener/blob/master/HLD.md">HLD</a></button><button style='margin-right:16px'><a href="https://github.com/kapoorarpit/Fast-URLshortener/blob/master/LLD.md">LLD</a></button></span>
+<span > <button style='margin-right:16px'><a href="https://kapoorarpit.github.io/frontend-URLshortener/shorten.html">Demo</a></button><button style='margin-right:16px'><a href="https://github.com/kapoorarpit/Fast-URLshortener">CodeBase</a></button><button style='margin-right:16px'><a href="https://github.com/kapoorarpit/Fast-URLshortener/blob/master/README.md">Documentation</a></button><button style='margin-right:16px'><a href="https://github.com/kapoorarpit/Fast-URLshortener/blob/master/HLD.md">HLD</a></button><button style='margin-right:16px'><a href="https://github.com/kapoorarpit/Fast-URLshortener/blob/master/LLD.md">LLD</a></button></span>
 </div>
 
 
 <span id="w"><span id="a">hire@arpit</span>:<span id="b">~</span><span id="c">$</span> Coding Profiles</span>
-<p> Problem solving <span id="a">@HackerRank</span>    <span id="b">5*</span>  
-    Problem Solving <span id="a">@GeeksforGeeks</span> <span id="b">220+</span>  
+<p> Problem Solving <span id="a">@GeeksforGeeks</span> <span id="b">#rank1 in institution</span>  
+    Problem solving <span id="a">@HackerRank</span>    <span id="b">5*</span>  
     Competitive Coding <span id="a">@CodeChef</span>   <span id="b">3*</span>  
     Python Programming <span id="a">@HackerRank</span> <span id="b">5*</span>  
     C++ Programming <span id="a">@HackerRank</span>    <span id="b">5*</span>  
